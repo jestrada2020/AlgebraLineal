@@ -10,7 +10,7 @@ link-citations: yes
 description: "Este es un breve resumen de algebra lineal para un segundo año de universidad en ciencias exactas."
 ---
 
-# Prerequisites
+# Prrequisitos
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
 
