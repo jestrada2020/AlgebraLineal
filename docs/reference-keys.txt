@@ -41,3 +41,5 @@ ejemplos-de-sistemas-no-lineales
 técnica-de-sustitución-2
 técnica-de-eliminación-2
 actividad-geogebra-sistemas-de-ecuaciones-no-lineales-interpretación-gráfica
+producto-de-dos-matrices
+producto-dfe-tres-matrices
