@@ -43,3 +43,4 @@ técnica-de-eliminación-2
 actividad-geogebra-sistemas-de-ecuaciones-no-lineales-interpretación-gráfica
 producto-de-dos-matrices
 producto-dfe-tres-matrices
+producto-de-tres-matrices
